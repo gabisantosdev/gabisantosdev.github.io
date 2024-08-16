@@ -40,8 +40,27 @@ body {
     color: white;
 }
 
+#gitHubButton {
+    margin-top: 2rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 0.5rem 1rem;
+    background-color: white;
+    color: orange;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+#gitHubButton:hover {
+    background-color: orange;
+    color: white;
+}
+
 #mensagem {
     font-size: 2.5rem;
-    margin-top: 1rem;
+    margin-top: 3rem;
     color: orange;
 }

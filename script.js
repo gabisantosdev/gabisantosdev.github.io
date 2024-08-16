@@ -1,3 +1,4 @@
 function mostrarMensagem() {
-    document.getElementById("mensagem").innerText = "Parabéns! você clicou no botão"
+    document.getElementById("mensagem").innerText = "Portfólio em desenvolvimento"
+    document.getElementById("gitHubButton").style.display = "block"
 }
